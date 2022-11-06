@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 
 <a href="https://app.daily.dev/Juamatx"><img src="https://api.daily.dev/devcards/07df20fe669442448d37dcec73613986.png?r=vnr" width="400" alt="J M's Dev Card"/></a>
 -->
+<a href="https://app.daily.dev/Juamatx"><img src="https://api.daily.dev/devcards/07df20fe669442448d37dcec73613986.png?r=vnr" width="200" alt="J M's Dev Card"/></a>
